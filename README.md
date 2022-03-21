@@ -12,7 +12,7 @@ Before starting, the folders of the respository is described here as follows:
     * The RSEI modeling code is located in URL: https://code.earthengine.google.com/?accept_repo=users/leejianzhou2080/rsei
 - Urbanization
     * The python codes and data for constructing the urbanization index.
-    * There is a special java project based on springboot to handle the messy source data from yearbooks, and the source EXCEL tables is located in folder: /Urbanization/City/target/classes/static/city
+    * There is a special java project based on springboot to handle the messy source data from yearbooks, and the source EXCEL tables is located in folder: /Urbanization/City/src/main/resources/static/city
 - CCD
     * The novel model presented in the paper called: a standard Euclidean distance based model for coupling coordinated degree.
     * The model above is implemented by python in this folder.
