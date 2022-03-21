@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://192.168.1.244:1433;databasename=TEST
+    username: sa
+    password: Aa123456
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+#配置mybatis
+mybatis:
+  #实体类包名路径
+  type-aliases-package: com.ljz.phd.city.entity
+  #映射文件路径
+  #  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
