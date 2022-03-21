@@ -19,7 +19,7 @@ Before starting, the folders of the respository is described here as follows:
 - ARIMA
     * A model for predicting urbanization for the future 10 years from the past 36 years implemented by python.
   
-#### 2. Prerequisites reminder:
+#### 2. Prerequisites & reminder:
 
 In order to run these codes, you'd better know the following introductory knowledge:
 - python + jupyter notebook
