@@ -1,7 +1,7 @@
 # UE
 This public respository is about the detailed processing codes and data for the paper:
 
-**Impact of urbanization on eco-environmental quality presents an inverted U-curve in the Yangtze River Delta, China**
+**Impact of urbanization on eco-environmental quality exhibits an inverted U-curve in the Yangtze River Delta, China**
 
 
 #### 1. How to start:
