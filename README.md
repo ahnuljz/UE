@@ -24,4 +24,7 @@ Before starting, the folders of the respository is described here as follows:
 In order to run these codes, you'd better know the following introductory knowledge:
 - python + jupyter notebook
 - java + maven + springboot
-- javascript + GEE API
+- javascript + Google Earth Engin API
+
+If you have any questions, please contact me via e-mail.
+Email adress: yzban At anhu.edu.cn.
